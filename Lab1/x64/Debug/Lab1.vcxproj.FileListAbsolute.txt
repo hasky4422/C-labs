@@ -1,0 +1,2 @@
+E:\ProgramData\SAVES\Lab1\x64\Debug\Lab1.exe
+E:\ProgramData\SAVES\Lab1\x64\Debug\Lab1.pdb
