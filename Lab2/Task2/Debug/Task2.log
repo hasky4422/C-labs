@@ -1,0 +1,8 @@
+﻿  Fraction.cpp
+E:\ProgramData\SAVES\Lab2\Task2\Fraction.cpp(50,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\ProgramData\SAVES\Lab2\Task2\Fraction.cpp(51,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\ProgramData\SAVES\Lab2\Task2\Fraction.cpp(73,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\ProgramData\SAVES\Lab2\Task2\Fraction.cpp(74,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Task2.cpp
+  Создание кода...
+  Task2.vcxproj -> E:\ProgramData\SAVES\Lab2\Debug\Task2.exe

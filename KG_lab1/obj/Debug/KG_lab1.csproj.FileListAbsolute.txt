@@ -1,0 +1,10 @@
+E:\ProgramData\SAVES\KG_lab1\bin\Debug\KG_lab1.exe.config
+E:\ProgramData\SAVES\KG_lab1\bin\Debug\KG_lab1.exe
+E:\ProgramData\SAVES\KG_lab1\bin\Debug\KG_lab1.pdb
+E:\ProgramData\SAVES\KG_lab1\obj\Debug\KG_lab1.csprojAssemblyReference.cache
+E:\ProgramData\SAVES\KG_lab1\obj\Debug\KG_lab1.Form1.resources
+E:\ProgramData\SAVES\KG_lab1\obj\Debug\KG_lab1.Properties.Resources.resources
+E:\ProgramData\SAVES\KG_lab1\obj\Debug\KG_lab1.csproj.GenerateResource.cache
+E:\ProgramData\SAVES\KG_lab1\obj\Debug\KG_lab1.csproj.CoreCompileInputs.cache
+E:\ProgramData\SAVES\KG_lab1\obj\Debug\KG_lab1.exe
+E:\ProgramData\SAVES\KG_lab1\obj\Debug\KG_lab1.pdb

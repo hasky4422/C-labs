@@ -20,10 +20,11 @@ void Mystrcat(char* dest, const char* src)
 int main()
 {
 	setlocale(LC_ALL, "Russian");
-	char s2[] = "Тестовая строка1";
+	char s2[100] = "Тестовая строка1";
 	char s1[] = "Тестовая строка2";
-	char s3[] = "Тестовая строка3";
+	char s3[100] = "Тестовая строка3";
 	char s4[] = "Тестовая строка4";
+
 	strcat(s2, s1);
 	printf("%s ", s2);
 	Mystrcat(s3, s4);

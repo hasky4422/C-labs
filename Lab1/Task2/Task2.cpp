@@ -72,6 +72,6 @@ int main()
     {
         delete* (ptrarray + i);
     }
-    delete ptrarray;
-    delete changetarr;
+    delete[] ptrarray;
+    delete[] changetarr;
 }
