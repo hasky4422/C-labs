@@ -22,6 +22,43 @@ Matrix::~Matrix()
     }
     delete[] matrix;
 }
+
+void Matrix::operator++()
+{
+    for (int i = 0; i < rows_; i++) {
+        for (int j = 0; j < cols_; j++) {
+            matrix[i][j]++;
+        }
+    }
+}
+
+void Matrix::operator++(int)
+{
+    for (int i = 0; i < rows_; i++) {
+        for (int j = 0; j < cols_; j++) {
+            ++matrix[i][j];
+        }
+    }
+}
+
+void Matrix::operator--()
+{
+    for (int i = 0; i < rows_; i++) {
+        for (int j = 0; j < cols_; j++) {
+            matrix[i][j]--;
+        }
+    }
+}
+
+void Matrix::operator--(int)
+{
+    for (int i = 0; i < rows_; i++) {
+        for (int j = 0; j < cols_; j++) {
+            --matrix[i][j];
+        }
+    }
+}
+
 double**  Matrix::GetMatrix()
 {
     return matrix;

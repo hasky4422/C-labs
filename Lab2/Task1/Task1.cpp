@@ -47,4 +47,15 @@ int main()
     changeArray(arry2D.GetMatrix(), x, y, arry1D.GetVector());
     cout << endl;
     arry1D.PrintArr1D();
+    cout << endl;
+
+    cout <<"Проверка операторов инкремента и декремента"<< endl;
+    arry2D.PrintArr2D();
+    cout << endl;
+    arry2D++;
+    arry2D.PrintArr2D();
+    cout << endl;
+    arry2D--;
+    arry2D--;
+    arry2D.PrintArr2D();
 }
