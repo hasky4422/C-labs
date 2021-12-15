@@ -28,5 +28,6 @@ public:
 	void SetName(string name);
 	int GetProfit();
 	int GetGrowth();
+	void LogToFile();
 };
 

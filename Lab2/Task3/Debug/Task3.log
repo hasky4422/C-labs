@@ -1,6 +1,2 @@
-﻿  Task3.cpp
-E:\ProgramData\SAVES\Lab2\Task3\Task3.cpp(44,45): warning C4305: аргумент: усечение из "__int64" в "int"
-E:\ProgramData\SAVES\Lab2\Task3\Task3.cpp(44,35): warning C4309: аргумент: усечение константного значения
-E:\ProgramData\SAVES\Lab2\Task3\Task3.cpp(50,44): warning C4305: аргумент: усечение из "__int64" в "int"
-E:\ProgramData\SAVES\Lab2\Task3\Task3.cpp(50,33): warning C4309: аргумент: усечение константного значения
+﻿  Shop.cpp
   Task3.vcxproj -> E:\ProgramData\SAVES\Lab2\Debug\Task3.exe

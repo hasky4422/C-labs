@@ -86,4 +86,5 @@ int main()
         cout << i + 1 << ") " << markets[i] << ", средний прирост прибыли: " << profitSort[i] << endl;
     }
     cout << "" << endl;
+    psStore.LogToFile();
 }

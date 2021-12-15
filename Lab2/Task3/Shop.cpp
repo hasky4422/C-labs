@@ -1,6 +1,8 @@
 #include "Shop.h"
 #include <iostream>
+#include <fstream>
 #include <iomanip>
+#include <conio.h>
 using namespace std;
 
 Shop::Shop(string name, string location, int createYear, int phoneNumber) 
@@ -68,4 +70,20 @@ int  Shop::GetProfit()
 int  Shop::GetGrowth()
 {
 	return growth_;
+}
+
+void Shop::LogToFile()
+{
+	std::ofstream out;          // поток для записи
+	out.open("D:\\log.txt"); 
+	if (out.is_open())
+	{
+		out << 
+		"Название магазина: "<<name_<< endl <<
+		"Адресс:"<<location_<< endl <<
+		"Год создания: "<<createYear_<< endl<<
+		"Номер телефона: "<<phoneNumber_
+	    << std::endl;
+	}
+	out.close();
 }

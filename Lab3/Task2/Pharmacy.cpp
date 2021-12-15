@@ -1,0 +1,14 @@
+#include "Pharmacy.h"
+#include <string>
+#include <iostream>
+
+Pharmacy::Pharmacy(string name, string location, int createYear, int phoneNumber):Shop(name, location, createYear, phoneNumber) {}
+
+void Pharmacy::PayTax() {
+	tax_ = profit_* (10 / 100);
+}
+
+double Pharmacy::GetTax()
+{
+	return tax_;
+}

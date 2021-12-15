@@ -1,0 +1,297 @@
+<Summator>
+6 operands :
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+ -> 8.6
+
+<Multiplier>
+4 operands :
+(-0.5) * (-8) * 1.5 * 16
+ -> 96
+
+<CustomExpressionEvaluator>
+4 operands :
+50 + 2 * 40 + 3 * (-10) + 4 * (-2)
+ -> inf
+
+<Summator>
+6 operands :
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+ -> 8.6
+
+<Multiplier>
+4 operands :
+(-0.5) * (-8) * 1.5 * 16
+ -> 96
+
+<CustomExpressionEvaluator>
+4 operands :
+50 + 2 * 40 + 3 * (-10) + 4 * (-2)
+ -> inf
+
+<Summator>
+6 operands :
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+ -> 8.6
+
+<Multiplier>
+4 operands :
+(-0.5) * (-8) * 1.5 * 16
+ -> 96
+
+<CustomExpressionEvaluator>
+4 operands :
+50 + 2 * 40 + 3 * (-10) + 4 * (-2)
+ -> 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+ -> 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+ -> 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50 + 2 * 40 + 3 * (-10) + 4 * (-2)
+ -> 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+ -> 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+ -> 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50 + 2 * 40 + 3 * (-10) + 4 * (-2)
+ -> 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+ -> 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+ -> 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50 + 2 * 40 + 3 * (-10) + 4 * (-2)
+ -> 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+50
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+
+Result: 84.3333
+
+<Summator>
+Operands :6
+ + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+ * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+
+Result: 84.3333
+
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+<Summator>
+Operands :6
+2.6 + (-8.1) + 13.2 + 1.5 + 3.4 + (-4)
+Result: 8.6
+
+<Multiplier>
+Operands :4
+(-0.5) * (-8) * 1.5 * 16
+Result: 96
+
+<CustomExpressionEvaluator>
+Operands :4
+ + (40)/1  + (-10)/2  + (-2)/3 
+Result: 84.3333
+
+<Summator>
+Operands :4
+5.6 + (-2.1) + 3.2 + 1.5
+Result: 8.2
+
+<Multiplier>
+Operands :3
+(-1.5) * (-8) * 2.5
+Result: 30
+
+<CustomExpressionEvaluator>
+Operands :6
+ + (16)/1  + (-3)/2  + (10)/3  + (12)/4  + (2)/5 
+Result: 26.2333
+
+<Summator>
+Operands :4
+5.6 + (-2.1) + 3.2 + 1.5
+Result: 8.2
+
+<Multiplier>
+Operands :3
+(-1.5) * (-8) * 2.5
+Result: 30
+
+<CustomExpressionEvaluator>
+Operands :6
+ + (16)/1  + (-3)/2  + (10)/3  + (12)/4  + (2)/5 
+Result: 26.2333
+
