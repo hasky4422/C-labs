@@ -5,7 +5,7 @@ class Boutique : public Shop
 {
 public:
 	Boutique(string name, string location, int createYear, int phoneNumber);
-	void PayTax();
+	void payTax()override;
 	double GetTax();
 };
 

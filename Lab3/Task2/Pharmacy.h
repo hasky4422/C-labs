@@ -4,6 +4,6 @@ class Pharmacy : public Shop
 {
 public:
 	Pharmacy(string name, string location, int createYear, int phoneNumber);
-	void PayTax();
+	void payTax()override;
 	double GetTax();
 };

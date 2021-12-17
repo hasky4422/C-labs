@@ -1,2 +1,12 @@
 ﻿  Boutique.cpp
+  Pharmacy.cpp
+  Shop.cpp
+  Task2.cpp
+E:\ProgramData\SAVES\Lab3\Task2\Task2.cpp(8,78): warning C4305: аргумент: усечение из "__int64" в "int"
+E:\ProgramData\SAVES\Lab3\Task2\Task2.cpp(8,67): warning C4309: аргумент: усечение константного значения
+E:\ProgramData\SAVES\Lab3\Task2\Task2.cpp(9,70): warning C4305: аргумент: усечение из "__int64" в "int"
+E:\ProgramData\SAVES\Lab3\Task2\Task2.cpp(9,59): warning C4309: аргумент: усечение константного значения
+E:\ProgramData\SAVES\Lab3\Task2\Task2.cpp(10,88): warning C4305: аргумент: усечение из "__int64" в "int"
+E:\ProgramData\SAVES\Lab3\Task2\Task2.cpp(10,77): warning C4309: аргумент: усечение константного значения
+  Создание кода...
   Task2.vcxproj -> E:\ProgramData\SAVES\Lab3\Debug\Task2.exe

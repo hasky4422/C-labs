@@ -4,7 +4,7 @@
 
 Boutique::Boutique(string name, string location, int createYear, int phoneNumber) :Shop(name, location, createYear, phoneNumber) {}
 
-void Boutique::PayTax()
+void Boutique::payTax()
 { 
 	tax_ = profit_ * (15 / 100);
 }

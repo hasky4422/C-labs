@@ -4,7 +4,7 @@
 
 Pharmacy::Pharmacy(string name, string location, int createYear, int phoneNumber):Shop(name, location, createYear, phoneNumber) {}
 
-void Pharmacy::PayTax() {
+void Pharmacy::payTax() {
 	tax_ = profit_* (10 / 100);
 }
 

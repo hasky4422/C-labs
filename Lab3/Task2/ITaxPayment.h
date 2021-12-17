@@ -2,6 +2,6 @@
 class ITaxPayment
 {
 public:
-	void payTax();
+	virtual void payTax() = 0;
 };
 
