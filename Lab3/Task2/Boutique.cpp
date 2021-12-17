@@ -6,7 +6,7 @@ Boutique::Boutique(string name, string location, int createYear, int phoneNumber
 
 void Boutique::payTax()
 { 
-	tax_ = profit_ * (15 / 100);
+	tax_ = profit_ * (15.0 / 100);
 }
 
 double Boutique::GetTax()
